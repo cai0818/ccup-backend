@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f664e492-6a09-48fb-9e1c-8f6b8d411d3c" name="ubuntu_192.168.1.235">
+        <fileTransfer rootFolder="/home/cai/code" accessType="SFTP" host="192.168.1.235" port="22" sshConfigId="47163a10-94cd-40ca-a55a-abeda11f31f9" sshConfig="cai@192.168.1.235:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" isUseSudo="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
